@@ -4,12 +4,12 @@
 ## What Gau Expose tool does?
 👉 It makes your work a bit easier while analyzing gau results Also It's greater some other useful things from your gau results like
 
-* Gather subdomains
-* Gather panel stuff
-* Gather robots.txt
-* Greathering emails/usernames
-* Greater error
-* Gather paths for directory brute-force
+* gather subdomains
+* gather panel stuff
+* gather robots.txt
+* gather emails/usernames
+* gather error
+* gather paths for directory brute-force
 
 🎯 Details explation about this tool and it's results:
 
@@ -42,6 +42,6 @@ cat live-domains.txt | gauplus -t 30 > gau-urls.txt
 
 ✔ Then put your gau-urls.txt paths that's it.
 
-![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat) <a href="https://twitter.com/tamimhasan404">
+![contributions welcome](https://img.shields.io/badge/contributions-welcome-brighteen.svg?style=flat) <a href="https://twitter.com/tamimhasan404">
     <img src="https://img.shields.io/badge/author-@tamimhasan404-orange.svg?style=square&logo=twitter">
   </a>
