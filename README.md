@@ -18,17 +18,17 @@ Install gauplus and uro tool
 
 * Gauplus: 
 
-`go install github.com/bp0lr/gauplus@latest`
+``go install github.com/bp0lr/gauplus@latest``
 
 ++ If this method isn't working install gauplus manually
 
-`git clone https://github.com/bp0lr/gauplus.git
+``git clone https://github.com/bp0lr/gauplus.git``
 
-cd gauplus
+``cd gauplus``
 
-go build
+``go build``
 
-mv gauplus /usr/local/bin/`
+``mv gauplus /usr/local/bin/``
 
 * Uro
 
