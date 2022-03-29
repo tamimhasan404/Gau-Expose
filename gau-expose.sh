@@ -44,7 +44,7 @@ cat $path | grep "error." | sort | uniq | uro > gau-error-base.txt
 
 echo
 echo "[] Grathering other sensitive path"
-cat $path | grep -i "root\| internal\| private\|secret" | sort | uniq | uro > other-sensitive-path.txt
+cat $path | grep -i "root\| internal\| private\|secret" | sort | uniq | uro > other-possible-sensitive-path.txt
 
 echo
 echo "[] Grathering only robots.txt"
