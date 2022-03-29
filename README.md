@@ -42,6 +42,8 @@ cat live-domains.txt | gauplus -t 30 > gau-urls.txt
 
 ✔ Then put your gau-urls.txt paths that's it.
 
+* Inspire by (https://twitter.com/_Sm9l)
+
 ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brighteen.svg?style=flat) <a href="https://twitter.com/tamimhasan404">
     <img src="https://img.shields.io/badge/author-@tamimhasan404-orange.svg?style=square&logo=twitter">
   </a>
