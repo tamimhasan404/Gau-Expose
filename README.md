@@ -12,6 +12,7 @@
 * gather paths for directory brute-force
 
 🎯 Details explation about this tool and it's results:
+- https://tamimhasan404.medium.com/analyze-your-gau-result-with-gau-expose-tool-124edf7682b7
 
 ++ Now before starting You have to do
 Install gauplus and uro tool
