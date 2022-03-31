@@ -5,6 +5,7 @@
 👉 It makes your work a bit easier while analyzing gau results Also It's greater some other useful things from your gau results like
 
 * gather subdomains
+* gather possible sensitive file like bak,zip,xlsx etc
 * gather panel stuff
 * gather robots.txt
 * gather emails/usernames
