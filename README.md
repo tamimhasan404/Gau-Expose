@@ -9,7 +9,7 @@
 * gather robots.txt
 * gather emails/usernames
 * gather error
-* gather paths for directory brute-force
+* gather wordlist for directory brute-force
 
 🎯 Details explation about this tool and it's results:
 - https://tamimhasan404.medium.com/analyze-your-gau-result-with-gau-expose-tool-124edf7682b7
