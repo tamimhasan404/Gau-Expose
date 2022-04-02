@@ -10,6 +10,7 @@
 * gather robots.txt
 * gather emails/usernames
 * gather error
+* gather third-party assets
 * gather wordlist for directory brute-force
 
 🎯 Details explation about this tool and it's results:
