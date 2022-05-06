@@ -57,7 +57,7 @@ cat $path | cut -d'/' -f3 | cut -d':' -f1 | uro | sed 's/^\(\|s\):\/\///g' > sub
 echo
 echo "[] Grathering paths for directory brute-force"
 
-cat $path | rev | cut -d '/' -f 1 | rev | uro | sed 's/^\(\|s\):\/\///g' | sed '/=\|.js\|.gif\|.css\|.jpeg\|.png\|:\|%/d' > wordlist.txt
+cat $path | rev | cut -d '/' -f 1 | rev | uro | sed 's/^\(\|s\):\/\///g' | sed '/=\|.js\|.gif\|.jpg\|.mp4\|.css\|.jpeg\|.png\|:\|%/d' > wordlist.txt
 
 rm $path
 
