@@ -9,7 +9,7 @@ echo -e '\033[1;38;5;221m'"
 Author:Tamim Hasan(tamimhasan404)"
 echo
 
-mkdir gau-expose
+mkdir gau-expose-result
 
 echo -n "[] Give your gau file name/path: "
 
@@ -21,8 +21,8 @@ echo "[] Greather senstive file"
 
 echo
 
-cp $path gau-expose
-cd gau-expose
+cp $path gau-expose-result
+cd gau-expose-result
 
 cat $path | grep ".xls\|.xlsx\|.sql\|.csv\|.env\|.msql\|.bak\|.bkp\|.bkf\|.old\|.temp\|.db\|.mdb\|.config\|.yaml\|.zip\|.tar\|.git\|.xz\|.asmx\|.vcf\|.pem" | uro | sort | uniq  > gau-sensitive-file.txt
 
