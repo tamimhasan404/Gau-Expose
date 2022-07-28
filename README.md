@@ -1,9 +1,10 @@
 # Gau-Expose  
   ![Analyze your gau result with22222](https://user-images.githubusercontent.com/78614799/160250487-d6efb315-5c51-4094-a2b3-ae45e523c19f.png)
+  
+## 👉 Very effective when you have big gau result
 
 ## What Gau Expose tool does?
 👉 It makes your work a bit easier while analyzing gau results Also It's greater some other useful things from your gau results like
-
 * gather subdomains
 * gather possible sensitive file like bak,zip,xlsx etc
 * gather panel stuff
