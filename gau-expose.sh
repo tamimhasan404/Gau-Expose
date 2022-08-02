@@ -17,7 +17,7 @@ read path
 
 echo
 
-echo "[] Greather senstive file"
+echo "[] Greather sensitive file"
 
 echo
 
