@@ -11,7 +11,7 @@
 * gather robots.txt
 * gather emails/usernames
 * gather error
-* gather third-party assets (jira,jenkins,grafana)
+* gather third-party assets (jira,grafana etc)
 * gather wordlist for directory brute-force
 
 🎯 Details explation about this tool and it's results:
