@@ -59,8 +59,6 @@ echo "[] Grathering paths for directory brute-force"
 
 cat $path | rev | cut -d '/' -f 1 | rev | uro | sed 's/^\(\|s\):\/\///g' | sed '/=\|.js\|.gif\|.html\|.rss\|.cfm\|.htm\|.jpg\|.mp4\|.css\|.jpeg\|.png\|:\|%/d' > wordlist.txt
 
-rm $path
-
 echo
 
 echo -e "\e[1mDone, Hope it's helpful for you\e[0m"
