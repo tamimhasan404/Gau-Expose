@@ -32,7 +32,7 @@ cat $path | grep -i "login\|singup\|admin\|dashboard\|wp-admin\|singin\|adminer\
 echo
 echo "[] Greather third-party assets"
 
-cat $path | grep -i "jira\|jenkins\|grafana\|mailman\|+CSCOE+\|+CSCOT+\|+CSCOCA+\|symfony\|debug\|gitlab\|phpmyadmin\|phpMyAdmin" | sort | uniq | uro > gau-third-party-assets.txt
+cat $path | grep -i "jira\|jenkins\|grafana\|mailman\|+CSCOE+\|+CSCOT+\|+CSCOCA+\|symfony\|graphql\|debug\|gitlab\|phpmyadmin\|phpMyAdmin" | sort | uniq | uro > gau-third-party-assets.txt
 
 echo
 echo "[] Greathering emails-usersnames" 
